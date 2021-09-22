@@ -78,7 +78,7 @@ When ever user open a dialog, and close it, a memory will keep increased around 
 
 ** Please note that the big array in the code was added intentionally, to make it easier to see the leak. 
 This array should be cleared by browser GC when the dialog is closed, and element is removed from DOM, but it is not (why is it the case?)
- 
+ ## Answer -
 
 
  
