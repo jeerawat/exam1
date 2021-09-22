@@ -20,13 +20,15 @@ function thisIsSyncFunction() {
 }
  
 const number1 = thisIsSyncFunction()
+
 const calculation = number1 * 10;
+
 console.log(calculation);
 
 
 1.1	Please correct the code, so it really prints out the expected result (100). You can fix it anyway you like but it still has to call fetch as the source of data.
 
-
+### Answer link https://github.com/jeerawat/exam1/blob/main/section1-a1-1.js
 
 
 
@@ -39,6 +41,9 @@ console.log(calculation);
 
 
 1.2	Is there a way to make thisIsSyncFunction really synchronous, so number1 has the value 10 before it is used for the calculation on the next line.
+
+### Answer - 
+
  
 
 Question 2
@@ -46,6 +51,8 @@ Question 2
 From this code https://codepen.io/domrongpon-tanpaibul/pen/ExgVrPJ
 , please provide the CSS that move the start to the middle of the box.
  
+### Answer link  https://codepen.io/jeerawat/details/ZEyovex
+
 
 Question 3
 
@@ -54,12 +61,14 @@ From this code, https://codepen.io/domrongpon-tanpaibul/pen/YzGyBZq?editors=1010
 
 Note that you can only add code inside Quiz block in JS section but can't modify class MyDlg.
  
+### Answer -
 
 Question 4
 
 From this code, https://codepen.io/domrongpon-tanpaibul/pen/zYKvboB
 , please write code to show RGB code that users clicked inside the answer box. Please consider the efficiency of the code as well.
 
+### Answer link  https://codepen.io/jeerawat/pen/OJgZzqm
  
 
 Question 5
@@ -98,7 +107,7 @@ Please create a web application following below specs.
     o	IsFibanacci: calculate whether the input is a fibonacci number, show true in Col3 if the number is a fibonacci number, and false in the other case.
 -	Whenever the value in input box in column1, or the dropdown in column2 changes, execute the calculation accordingly, and show the result in column 3.
 
- 
+ ## Answer -
  
 
 Question 2
