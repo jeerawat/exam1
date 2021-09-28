@@ -78,7 +78,7 @@ When ever user open a dialog, and close it, a memory will keep increased around 
 
 ** Please note that the big array in the code was added intentionally, to make it easier to see the leak. 
 This array should be cleared by browser GC when the dialog is closed, and element is removed from DOM, but it is not (why is it the case?)
- ## Answer -
+ ## Answer  when  onClick showDialog variable tmp is called  with push data 500,000 rounds and Close Dialog  have a garbage collectors. We can resolve by  release the allocated memory when closing dialog by input line code number 19 for closeBtn.tmp = null;    link https://github.com/jeerawat/exam1/blob/main/metaleak.html
 
 
  
