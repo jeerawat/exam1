@@ -42,7 +42,7 @@ console.log(calculation);
 
 1.2	Is there a way to make thisIsSyncFunction really synchronous, so number1 has the value 10 before it is used for the calculation on the next line.
 
-### Answer - 
+### Answer link https://github.com/jeerawat/exam1/blob/main/section1-a1-2.js
 
  
 
