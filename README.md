@@ -61,7 +61,7 @@ From this code, https://codepen.io/domrongpon-tanpaibul/pen/YzGyBZq?editors=1010
 
 Note that you can only add code inside Quiz block in JS section but can't modify class MyDlg.
  
-### Answer -
+### Answer link https://codepen.io/jeerawat/pen/wvejpqo
 
 Question 4
 
