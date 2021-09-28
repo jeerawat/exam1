@@ -119,7 +119,7 @@ Please create a web application following below specs.
     o	IsFibanacci: calculate whether the input is a fibonacci number, show true in Col3 if the number is a fibonacci number, and false in the other case.
 -	Whenever the value in input box in column1, or the dropdown in column2 changes, execute the calculation accordingly, and show the result in column 3.
 
- ## Answer -
+ ## Answer Answer link https://github.com/jeerawat/exam1/blob/main/app1
  
 
 Question 2
@@ -132,7 +132,7 @@ Filtering
 NOTE
     •	The app could created with any framework but Angular is preferred
 
-## Answer -
+## Answer link https://github.com/jeerawat/exam1/blob/main/app2
 
 
  
