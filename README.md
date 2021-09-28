@@ -89,7 +89,7 @@ This array should be cleared by browser GC when the dialog is closed, and elemen
  ## open dialog round 2 trace
  <img src="m3.png">
 
- ## closed dialog
+ ## closed dialog when release the allocated memory line code  19  // closeBtn.tmp = null; 
  <img src="m4.png">
 
 
